@@ -1,0 +1,3 @@
+g++ -c lab_04.cpp
+g++ -o run lab_04.o
+./run

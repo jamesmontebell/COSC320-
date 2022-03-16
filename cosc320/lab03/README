@@ -1,0 +1,11 @@
+compile with
+
+TASK 1
+g++ -c Lab03_01.cpp
+g++ -o run Lab03_01.o
+./run
+
+TASK 2
+g++ -c Lab03_02.cpp
+g++ -o run1 Lab03_02.o
+./run1
